@@ -189,8 +189,9 @@ a:hover {
 }
 
 .new-collection {
-    background-image: url("./img/new-collection.jpg");
-    background-image: url("img/new-collection.jpg");
+    background-image: url("/img/new-collection.jpg");
+    /* background-image: url("img/new-collection.jpg");
+    background-image: url("/kursovaya-1/img/new-collection.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
