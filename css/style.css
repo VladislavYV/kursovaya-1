@@ -9,6 +9,12 @@
     src: url("../fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf") ;
 } */
 
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 .montserrat-light {
     font-family: "Montserrat", serif;
     font-optical-sizing: auto;
@@ -46,12 +52,40 @@
     color: #000;
 }
 
-a, button {
-    cursor: pointer;
+h1 {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
 }
 
 h2 {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-weight: 700;
+    font-style: normal;
     font-size: 40px;
+}
+
+h3 {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+}
+
+a, button {
+    cursor: pointer;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+p {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
 }
 
 a:hover {
