@@ -22,7 +22,7 @@
     src: url("../fonts/Fira_Mono/FiraMono-Bold.ttf");
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Great+Vibes&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Great+Vibes&display=swap'); */
 
 .great-vibes-regular {
     font-family: "Great Vibes", cursive;
