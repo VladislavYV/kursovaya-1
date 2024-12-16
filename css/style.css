@@ -4,13 +4,15 @@
     src: url("../fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf") ;
 } */
 
-/* @font-face {
-    font-family: "Fira Mono", monospace;
-    font-style: normal;
-    src: url("../fonts/Fira_Mono/FiraMono-Regular.ttf");
-}
+/* @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 
 @font-face {
+    font-family: "PT Mono", monospace;
+    font-style: normal;
+    src: url("../fonts/PT_Mono/PTMono-Regular.ttf");
+} */
+
+/* @font-face {
     font-family: "Fira Mono - Medium", monospace;
     font-style: normal;
     src: url("../fonts/Fira_Mono/FiraMono-Medium.ttf");
@@ -22,40 +24,6 @@
     src: url("../fonts/Fira_Mono/FiraMono-Bold.ttf");
 } */
 
-.great-vibes-regular {
-    font-family: "Great Vibes", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
-
-.montserrat-light {
-    font-family: "Montserrat", serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-}
-
-.montserrat-normal {
-    font-family: "Montserrat", serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.montserrat-bold {
-    font-family: "Montserrat", serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-}
-
-.montserrat-black {
-    font-family: "Montserrat", serif;
-    font-optical-sizing: auto;
-    font-weight: 900;
-    font-style: normal;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -66,21 +34,21 @@
 }
 
 h1 {
-    font-family: "Courier New", Courier, monospace;
+    font-family: "PT Mono", monospace;
     font-weight: 700;
     font-style: normal;
     font-size: 60px;
 }
 
 h2 {
-    font-family: "Courier New", Courier, monospace;
+    font-family: "PT Mono", monospace;
     font-weight: 700;
     font-style: normal;
     font-size: 40px;
 }
 
 h3 {
-    font-family: "Courier New", Courier, monospace;
+    font-family: "PT Mono", monospace;
     font-weight: 600;
     font-style: normal;
     font-size: 30px;
@@ -88,14 +56,14 @@ h3 {
 
 a, button {
     cursor: pointer;
-    font-family: "Courier New", Courier, monospace;
+    font-family: "PT Mono", monospace;
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
 }
 
 p {
-    font-family: "Courier New", Courier, monospace;
+    font-family: "PT Mono", monospace;
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
