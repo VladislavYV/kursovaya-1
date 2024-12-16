@@ -9,6 +9,8 @@
     src: url("../fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf") ;
 } */
 
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Great+Vibes&display=swap');
+
 .great-vibes-regular {
     font-family: "Great Vibes", cursive;
     font-weight: 400;
@@ -68,7 +70,7 @@ h2 {
 
 h3 {
     font-family: "Fira Mono", monospace;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
     font-size: 30px;
 }
