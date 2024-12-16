@@ -4,7 +4,7 @@
     src: url("../fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf") ;
 } */
 
-@font-face {
+/* @font-face {
     font-family: "Fira Mono", monospace;
     font-style: normal;
     src: url("../fonts/Fira_Mono/FiraMono-Regular.ttf");
@@ -20,9 +20,7 @@
     font-family: "Fira Mono - Bold", monospace;
     font-style: normal;
     src: url("../fonts/Fira_Mono/FiraMono-Bold.ttf");
-}
-
-/* @import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Great+Vibes&display=swap'); */
+} */
 
 .great-vibes-regular {
     font-family: "Great Vibes", cursive;
@@ -68,21 +66,21 @@
 }
 
 h1 {
-    font-family: "Fira Mono", monospace;
+    font-family: "Courier New", Courier, monospace;
     font-weight: 700;
     font-style: normal;
     font-size: 60px;
 }
 
 h2 {
-    font-family: "Fira Mono", monospace;
+    font-family: "Courier New", Courier, monospace;
     font-weight: 700;
     font-style: normal;
     font-size: 40px;
 }
 
 h3 {
-    font-family: "Fira Mono", monospace;
+    font-family: "Courier New", Courier, monospace;
     font-weight: 600;
     font-style: normal;
     font-size: 30px;
@@ -90,14 +88,14 @@ h3 {
 
 a, button {
     cursor: pointer;
-    font-family: "Fira Mono", monospace;
+    font-family: "Courier New", Courier, monospace;
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
 }
 
 p {
-    font-family: "Fira Mono", monospace;
+    font-family: "Courier New", Courier, monospace;
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
