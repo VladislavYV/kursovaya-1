@@ -1,33 +1,32 @@
-/* @font-face {
-    font-family: 'Montserrat italic';
-    font-style: italic;
-    src: url("../fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf") ;
-} */
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=PT+Mono&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+/* @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+/* @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
 
 /* @font-face {
-    font-family: "PT Mono", monospace;
+    font-family: "PT Serif", serif;
     font-style: normal;
     src: url("../fonts/PT_Mono/PTMono-Regular.ttf");
 }
 
 @font-face {
-    font-family: "Fira Mono", monospace;
+    font-family: "PT Serif - Bold", serif;
+    font-style: normal;
+    src: url("../fonts/PT_Mono/PTMono-Regular.ttf");
+}
+
+@font-face {
+    font-family: "PT Sans", sans-serif;
     font-style: normal;
     src: url("../fonts/Fira_Mono/FiraMono-Regular.ttf");
 }
 
 @font-face {
-    font-family: "Fira Mono - Medium", monospace;
+    font-family: "PT Sans - Bold", sans-serif;
     font-style: normal;
-    src: url("../fonts/Fira_Mono/FiraMono-Medium.ttf");
-}
-
-@font-face {
-    font-family: "Fira Mono - Bold", monospace;
-    font-style: normal;
-    src: url("../fonts/Fira_Mono/FiraMono-Bold.ttf");
+    src: url("../fonts/Fira_Mono/FiraMono-Regular.ttf");
 } */
 
 * {
@@ -40,21 +39,21 @@
 }
 
 h1 {
-    font-family: "Fira Mono", monospace;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 60px;
 }
 
 h2 {
-    font-family: "Fira Mono", monospace;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 40px;
 }
 
 h3 {
-    font-family: "Fira Mono", monospace;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 30px;
@@ -62,14 +61,14 @@ h3 {
 
 a, button {
     cursor: pointer;
-    font-family: "PT Mono", monospace;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
 }
 
 p {
-    font-family: "PT Mono", monospace;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
