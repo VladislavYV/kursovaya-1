@@ -1,17 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
 /* @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
 
 /* @font-face {
     font-family: "PT Serif", serif;
     font-style: normal;
-    src: url("../fonts/PT_Mono/PTMono-Regular.ttf");
+    src: url("../fonts/PT_Serif/PTSerif-Regular.ttf");
 }
 
 @font-face {
     font-family: "PT Serif - Bold", serif;
     font-style: normal;
-    src: url("../fonts/PT_Mono/PTMono-Regular.ttf");
+    src: url("../fonts/PT_Serif/PTSerif-Bold.ttf");
 } */
 
 * {
@@ -38,7 +36,7 @@ h2 {
 }
 
 h3 {
-    font-family: "PT Serif", serif;
+    font-family: "PT Sans", sans-serif;
     font-weight: 600;
     font-style: normal;
     font-size: 30px;
@@ -46,14 +44,14 @@ h3 {
 
 a, button {
     cursor: pointer;
-    font-family: "PT Serif", serif;
+    font-family: "PT Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
 }
 
 p {
-    font-family: "PT Serif", serif;
+    font-family: "PT Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
