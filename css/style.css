@@ -1,5 +1,5 @@
 
-/* @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
 
@@ -16,18 +16,6 @@
     font-style: normal;
     src: url("../fonts/PT_Mono/PTMono-Regular.ttf");
 } */
-
-@font-face {
-    font-family: "PT Sans", sans-serif;
-    font-style: normal;
-    src: url("../fonts/Fira_Mono/FiraMono-Regular.ttf");
-}
-
-@font-face {
-    font-family: "PT Sans - Bold", sans-serif;
-    font-style: normal;
-    src: url("../fonts/Fira_Mono/FiraMono-Regular.ttf");
-}
 
 * {
     margin: 0;
