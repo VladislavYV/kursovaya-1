@@ -2,7 +2,7 @@
 
 /* @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
 
-/* @font-face {
+@font-face {
     font-family: "PT Serif", serif;
     font-style: normal;
     src: url("../fonts/PT_Mono/PTMono-Regular.ttf");
@@ -12,7 +12,7 @@
     font-family: "PT Serif - Bold", serif;
     font-style: normal;
     src: url("../fonts/PT_Mono/PTMono-Regular.ttf");
-} */
+}
 
 * {
     margin: 0;
@@ -24,21 +24,21 @@
 }
 
 h1 {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "PT Serif - Bold", serif;
     font-weight: 700;
     font-style: normal;
     font-size: 60px;
 }
 
 h2 {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "PT Serif - Bold", serif;
     font-weight: 700;
     font-style: normal;
     font-size: 40px;
 }
 
 h3 {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "PT Serif", serif;
     font-weight: 600;
     font-style: normal;
     font-size: 30px;
@@ -46,14 +46,14 @@ h3 {
 
 a, button {
     cursor: pointer;
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "PT Serif", serif;
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
 }
 
 p {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "PT Serif", serif;
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
